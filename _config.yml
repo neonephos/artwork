@@ -1,0 +1,23 @@
+title: NeoNephos Foundation Artwork
+description: >-
+  Logos and artwork for NeoNephos Foundation and it's hosted projects
+
+# Settings
+favicon: other/neonephos-foundation/icon/color/neonephos-foundation-icon-color.png
+primary_logo: other/neonephos-foundation/horizontal/color/neonephos-foundation-horizontal-color.svg
+header_logo: other/neonephos-foundation/horizontal/white/neonephos-foundation-horizontal-white.svg
+github_repo: https://github.com/neonephos/artwork
+theme_color_1: 0f6bff
+theme_color_2: 0f6bff 
+# categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
+logo_categories: 
+  - Projects
+  - Other Logos
+#ga_tracking_id: 360578303
+
+# don't touch ;-)  
+readme_index:
+  with_frontmatter: true
+plugins:
+  - jekyll-remote-theme
+remote_theme: jmertic/artwork-template
