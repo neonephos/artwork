@@ -13,7 +13,7 @@ These are horizontal logos in a rectangular (but nonsquare) format. The vertical
 
 ## Stacked
 
-These are stacked logos like roundels or others in or near a 1:1 format.
+These are stacked logos like roundels or others in or near a 1:1 format. They typically contain the project name at the bottom and the icon at the top.
 
 ## Icon
 
