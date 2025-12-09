@@ -1,6 +1,6 @@
 # Logos and Icons
 
-Please upload logos and icons only in ```.svg``` format.
+Please upload logos and icons only in ```.svg``` format. The ```.png``` in this repository may not be kept.
 
 We are following the naming convention of the [CNCF artwork repository](https://github.com/cncf/artwork/tree/main/projects).
 
