@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="945.12" height="945.12" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 945.12 945.12">
+  <defs>
+    <linearGradient id="c" x1="842.45" y1="861.06" x2="64.36" y2="82.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bcbcbc"/>
+      <stop offset="1" stop-color="#eee"/>
+    </linearGradient>
+    <linearGradient id="f" x1="836.99" y1="862.23" x2="328.24" y2="340.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eee"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="i" x1="856.38" y1="863.85" x2="561.39" y2="585.96" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#f7f7f7"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="layer1">
+    <path id="d" data-name="rect2727" d="M176.82,67.49h693.75v821.69H48.88V195.43c0-70.66,57.28-127.94,127.94-127.94Z" fill="url(#c)"/>
+  </g>
+  <g id="e" data-name="layer2">
+    <path id="g" data-name="rect6963" d="M383.91,274.23h486.66l.19,614.96H256.16l-.19-487.05c0-70.65,57.28-127.92,127.94-127.92h0Z" fill="url(#f)"/>
+  </g>
+  <g id="h" data-name="layer3">
+    <path id="j" data-name="rect12826" d="M586.18,476.86h284.45v412.33h-412.4v-284.39c0-70.66,57.28-127.94,127.94-127.94h0Z" fill="url(#i)"/>
+  </g>
+</svg>
