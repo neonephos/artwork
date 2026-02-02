@@ -1,6 +1,6 @@
 ---
 project: CobaltCore
-featured_image: icon/black/cobaltcore-icon-black.svg
+featured_image: stacked/black/cobaltcore-stacked-black.svg
 layout: logos
 level: Projects
 ---
