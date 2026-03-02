@@ -9,16 +9,28 @@ primary_logo: other/neonephos-foundation/horizontal/color/neonephos-foundation-h
 header_logo: other/neonephos-foundation/horizontal/white/neonephos-foundation-horizontal-white.svg
 github_repo: https://github.com/neonephos/artwork
 theme_color_1: 0f6bff
-theme_color_2: 0f6bff 
+theme_color_2: 0f6bff
 # categories of logos, for grouping on main logo page. Must match level: in front matter of each logoset README.md file
-logo_categories: 
+logo_categories:
   - Projects
-  - Other Logos
-  - Banners
-  - Email Signature
+  - Other Artwork
 #ga_tracking_id: 360578303
 
-# don't touch ;-)  
+defaults:
+  - scope:
+      path: "other"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Other Artwork"
+  - scope:
+      path: "projects"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Projects"
+
+# don't touch ;-)
 readme_index:
   with_frontmatter: true
 plugins:

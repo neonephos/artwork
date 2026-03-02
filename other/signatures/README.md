@@ -1,7 +1,4 @@
 ---
-project: NeoNephos Foundation
+project: Signatures
 featured_image: email_signature/kubecon/signatures-email_signature-kubecon.png
-layout: logos
-level: Email Signature
-order: 1
 ---
