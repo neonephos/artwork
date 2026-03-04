@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/gardener-stacked-big-icon-color.svg
+featured_image: stacked-big-icon/color/gardener-stacked-big-icon-color.svg
 project: Gardener
 ---
