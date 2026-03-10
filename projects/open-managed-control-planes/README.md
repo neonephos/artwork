@@ -1,4 +1,4 @@
 ---
-featured_image: acronym/color/open-managed-control-planes-acronym-color.svg
+featured_image: stacked/color/open-control-plane-stacked-color.svg
 project: Open Managed Control Planes
 ---
