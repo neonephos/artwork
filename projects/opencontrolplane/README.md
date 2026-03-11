@@ -1,4 +1,4 @@
 ---
-featured_image: icon/color/opencontrolplane-icon-color.svg
+featured_image: stacked/color/opencontrolplane-stacked-color.svg
 project: OpenControlPlane
 ---
