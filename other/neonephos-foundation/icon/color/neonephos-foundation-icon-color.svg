@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="500" height="450" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 450">
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="350" height="300" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 300">
   <defs>
-    <linearGradient id="b" x1="66.96" y1="219.96" x2="316.51" y2="253.68" gradientUnits="userSpaceOnUse">
+    <linearGradient id="b" x1="49.76" y1="144.87" x2="216.78" y2="167.44" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0f6bff"/>
       <stop offset=".23" stop-color="#0f6afc"/>
       <stop offset=".35" stop-color="#1068f4"/>
@@ -13,8 +13,8 @@
       <stop offset=".82" stop-color="#2e394c"/>
       <stop offset=".85" stop-color="#333"/>
     </linearGradient>
-    <linearGradient id="c" x1="-7730.32" y1="219.96" x2="-7480.78" y2="253.68" gradientTransform="translate(-7297.5898) scale(-1 1)" xlink:href="#b"/>
+    <linearGradient id="c" x1="-7742.16" y1="144.87" x2="-7575.14" y2="167.44" gradientTransform="translate(-7447.5898) scale(-1 1)" xlink:href="#b"/>
   </defs>
-  <path d="M4.5,442.92h152.66c78.78,0,86.28-125.5,86.2-200.13l6.49-229.52L4.5,442.92Z" fill="url(#b)"/>
-  <path d="M495.19,442.92h-152.66c-78.78,0-86.28-125.5-86.2-200.13l-6.49-229.52,245.35,429.65Z" fill="url(#c)"/>
+  <path d="M7.95,294.1h102.18c52.73,0,57.75-84,57.7-133.95l4.34-153.62L7.95,294.1Z" fill="url(#b)"/>
+  <path d="M336.38,294.1h-102.18c-52.73,0-57.75-84-57.7-133.95l-4.34-153.62,164.22,287.57Z" fill="url(#c)"/>
 </svg>
