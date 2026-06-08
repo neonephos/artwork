@@ -1,4 +1,4 @@
 ---
-project: Signatures
+project: Stickers
 featured_image: neonephos/NNorg.svg
 ---
