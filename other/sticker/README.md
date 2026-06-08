@@ -1,4 +1,4 @@
 ---
 project: Stickers
-featured_image: neonephos/org/sticker-neonephos-org.svg
+featured_image: neonephos/org/sticker-neonephos-foundation.svg
 ---
