@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/greenhouse-stacked-color.svg
 project: Greenhouse
+featured_image: primary/color/greenhouse-primary-color.svg
 ---

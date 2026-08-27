@@ -1,4 +1,4 @@
 ---
 project: CobaltCore
-featured_image: stacked/black/cobaltcore-stacked-black.svg
+featured_image: primary/color/cobaltcore-primary-color.svg
 ---

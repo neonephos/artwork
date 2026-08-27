@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/open-component-model-stacked-color.svg
 project: Open Component Model
+featured_image: primary/color/open-component-model-primary-color.svg
 ---

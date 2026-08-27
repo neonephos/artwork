@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/garden-linux-stacked-color.svg
 project: Garden Linux
+featured_image: primary/color/garden-linux-primary-color.svg
 ---

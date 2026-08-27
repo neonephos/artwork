@@ -1,4 +1,4 @@
 ---
-featured_image: horizontal/color/open-resource-discovery-horizontal-color.svg
 project: Open Resource Discovery
+featured_image: primary/color/open-resource-discovery-primary-color.svg
 ---

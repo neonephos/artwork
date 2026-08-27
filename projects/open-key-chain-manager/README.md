@@ -1,4 +1,4 @@
 ---
-featured_image: acronym/color/open-key-chain-manager-acronym-color.svg
-project: Open Key Chain Manager
+project: Open Key Chain Manager (openKCM)
+featured_image: primary/color/open-key-chain-manager-primary-color.svg
 ---

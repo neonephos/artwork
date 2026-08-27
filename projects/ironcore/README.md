@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/ironcore-stacked-color.svg
 project: IronCore
+featured_image: primary/color/ironcore-primary-color.svg
 ---
