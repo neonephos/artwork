@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/platform-mesh-stacked-color.svg
 project: Platform Mesh
+featured_image: primary/color/platform-mesh-primary-color.svg
 ---

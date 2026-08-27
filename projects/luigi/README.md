@@ -1,4 +1,4 @@
 ---
-featured_image: stacked/color/luigi-stacked-color.svg
 project: Luigi
+featured_image: primary/color/luigi-primary-color.svg
 ---
